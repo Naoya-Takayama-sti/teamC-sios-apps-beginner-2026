@@ -6,7 +6,7 @@ class Item {
         this.stock = stock;
     }
 }
-
+//
 // メイン処理
 const main = () => {
     // ArrayListの代わりに標準の配列を使用します
